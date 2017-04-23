@@ -1,2 +1,2 @@
 # noticeme
-tera-proxy module for using the notice chat without lead
+ᴛᴇʀᴀ-ᴘʀᴏxʏ module for using the notice chat without lead
